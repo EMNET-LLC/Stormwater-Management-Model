@@ -1,3 +1,6 @@
+## ℹ️ this repository has been archived 
+This code is now being maintained in Bitbucket, [here](https://bitbucket.org/xyleminc/stormwater-management-model/src/master/)
+
 Stormwater-Management-Model
 ===========================
 
